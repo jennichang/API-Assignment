@@ -9,7 +9,6 @@ import java.net.URISyntaxException;
 import static spark.Spark.*;
 
 import com.google.gson.Gson;
-import spark.template.freemarker.FreeMarkerEngine;
 import spark.ModelAndView;
 import static spark.Spark.get;
 
